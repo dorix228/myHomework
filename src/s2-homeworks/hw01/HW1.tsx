@@ -24,7 +24,7 @@ export const message0: MessageType = {
         name: 'Тайлер дерден ',  // можно менять
     },
     message: {
-        text: 'чзх ', // можно менять
+        text: 'some new text', // можно менять
         time: '09:11', // можно менять
     },
 }
